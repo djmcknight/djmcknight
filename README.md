@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
 
+I'm currently workign as a SRE for Kroger Technology, trying to learn and push myself everyday to grow my career and be impactfull to those around me.
+
+🔭 I’m currently working on providing direction and leaderhip to my team as we move several applications (and many more to come) into Azure
+
+🌱 I’m currently learning Golang, lots and lots of golang, with a little bit of terraform sprinkled in for fun.
+
+👯 I’m looking to collaborate on OSS that I use, or plan to use in the future. Anything ansible related, and once i gain more confidence in my skills with the language, golang!
+
+😄 Pronouns: He/him
 <!--
 **djmcknight/djmcknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
