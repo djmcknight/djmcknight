@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I'm currently workign as a SRE for Kroger Technology, trying to learn and push myself everyday to grow my career and be impactfull to those around me.
+I'm currently working as a SRE for Kroger Technology, trying to learn and push myself everyday to grow my career and be impactful to those around me.
 
-🔭 I’m currently working on providing direction and leaderhip to my team as we move several applications (and many more to come) into Azure
+🔭 I’m currently working on providing direction and leadership to my team as we move several applications (and many more to come) into Azure
 
 🌱 I’m currently learning Golang, lots and lots of golang, with a little bit of terraform sprinkled in for fun.
 
